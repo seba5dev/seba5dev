@@ -5,7 +5,7 @@
 
 ### <p align="center">About me</p>
 
-* 👨‍💻 Full Stack Web Developer at Asiste Ingeniería.
+* 👨‍💻 Full Stack Web Developer at Grupo Cumplimos.
 * 🌟 I love to learn new programming languages and use them.
 * 📚 Always learning new technologies.
 * 👀 I’m interested in React, Python, Front-End, UX, UI, and a lot of more things!
