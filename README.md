@@ -1,11 +1,11 @@
 ## <h1 align="center">Hello there!👋 I'm Sebastian Martínez</h1>
 
 
-## <p align="center">I'm a web developer from Colombia </p>
+## <p align="center">I'm a software engineer from Colombia </p>
 
 ### <p align="center">About me</p>
 
-* 👨‍💻 SSR Software Engineer at Grupo Cumplimos.
+* 👨‍💻 Software Engineer at Bigle Technology.
 * 🌟 I love to learn new programming languages and use them.
 * 📚 Always learning new technologies.
 * 👀 I’m interested in React, Python, Front-End, UX, UI, and a lot of more things!
@@ -17,4 +17,4 @@
 
 
 
-## <p align="center">¡Reach me on <a href="https://www.linkedin.com/in/seba5dev/">LinkedIn</a> or <a href="https://twitter.com/seba5dev">Twitter</a>!</p>
+## <p align="center">¡Reach me on <a href="https://www.linkedin.com/in/seba5dev/">LinkedIn</a>!</p>
