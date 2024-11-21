@@ -11,8 +11,11 @@
 * 👀 I’m interested in React, Python, Front-End, UX, UI, and a lot of more things!
 ***
 
-| <img align="center" src="https://gh-stats.seba5.dev/api?username=seba5dev&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true" alt="Sebastian's github stats" /> | <img align="center" src="https://gh-stats.seba5.dev/api/top-langs/?username=seba5dev&layout=compact&theme=discord_old_blurple&hide_border=true&langs_count=8" /> |
+| <img align="center" src="https://gh-stats.seba5.dev/api?username=seba5dev&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="Sebastian's github stats" /> | <img align="center" src="https://gh-stats.seba5.dev/api/top-langs/?username=seba5dev&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=dart,java" /> |
 | ------------- | ------------- |
+
+|[![seba5dev's WakaTime stats](https://gh-stats.seba5.dev/api/wakatime?username=seba5dev&compact=true&theme=transparent&hide_border=true)](https://github.com/seba5dev) |
+| ------------- |
 
 
 
